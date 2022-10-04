@@ -7,7 +7,7 @@ Binary Search Tree Projesi
                                                                       \
                                                                        7
     
-    - 1<5 1 5'in soluna yazılır                                      5
+    - 1<5 1 5'in soluna yazılır                                      5s
                                                                     / \
                                                                    1   7  
 
